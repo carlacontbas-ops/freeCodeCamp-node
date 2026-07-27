@@ -1,7 +1,7 @@
 {
   "name": "freecodecamp-node",
   "version": "1.0.0",
-  "description": "Proyecto Node.js para freeCodeCamp",
+  "description": "Proyecto Node.js creado para aprender y practicar desarrollo backend con Express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
