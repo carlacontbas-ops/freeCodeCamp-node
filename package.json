@@ -4,7 +4,7 @@
   "description": "Proyecto Node.js creado para aprender y practicar desarrollo backend con Express",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node myApp.js"
   },
   "keywords": [
     "node",
@@ -16,7 +16,7 @@
   "author": "Carla Contreras",
   "license": "MIT",
   "type": "commonjs",
- "dependencies": {
-  "express": "^5.1.0"
-}
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
