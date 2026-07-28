@@ -2,9 +2,10 @@ const express = require("express");
 
 const app = express();
 
+console.log("Hello World");
+
 app.get("/", (req, res) => {
-  console.log("Hello World");
-  res.send("Hello World");
+  res.send("Hola, soy Carla Contreras. Mi proyecto Node.js funciona correctamente.");
 });
 
 const PORT = process.env.PORT || 3000;

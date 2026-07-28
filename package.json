@@ -4,8 +4,8 @@
   "description": "Proyecto Node.js creado para aprender y practicar desarrollo backend con Express",
   "main": "index.js",
   "scripts": {
-    "start": "node myApp.js"
-  },
+  "start": "node index.js"
+},
   "keywords": [
     "node",
     "express",
